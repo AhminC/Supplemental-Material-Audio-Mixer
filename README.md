@@ -13,5 +13,24 @@ overall volume of the mixer output. Then, we are going to add more circuits for 
 boost or attenuate a range of frequencies, e.g. bass, midrange, and treble, and perform general 
 equalization control at the output. 
 
-# Circuit Diagram
+# Circuit Diagram I
+The system is shown, which contains three input signals, preamplifier, summing amplifier, 
+equalizer and a speaker.  
+![](systemBlock.png)
+
+Diagram of equalizer
+![](equalizer.png)
+
+# Circuit Diagram II
+Preamplifier
+![](preamplifier.png)
+
+Summing Amplifier 
+![](summingAmplifier.png)
+
+# Circuit
 ![](circuit.jpg)
+
+
+
+
